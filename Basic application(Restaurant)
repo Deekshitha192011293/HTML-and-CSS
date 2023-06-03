@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Divya B and R</title>
+    </head>
+    <body>
+        <h1>Divya Bar and Restaurant</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius quidem nobis iure aspernatur sequi consequuntur est ab iusto molestiae deleniti officiis corrupti voluptatibus libero, consectetur error nostrum harum repellat odio.</p>
+        <img src="bar.jpg" alt="Image is missing" height="500" width="700">
+        <h3>Dishes available</h3>
+        <ol>
+            <li>Manchurian</li>
+            <li>Buttern naun</li>
+            <li>Panner tikka</li>
+            <li>Butter chicken</li>
+            <li>Biryani</li>
+            <ul>
+                <li>Chicken Biryani</li>
+                <li>Egg Biryani</li>
+                <li>Chicken Special Biryani</li>
+                <li>Prawns Biryani</li>
+            </ul>
+            <li>Mushroom curry</li>
+        </ol>
+        <h3>Drinks available</h3>
+        <ol>
+            <li>Tequila</li>
+            <li>Vodka</li>
+            <li>Magic moments</li>
+            <li>Beer</li>
+            <li>Whiskey</li>
+            <li>Rum</li>
+        </ol>
+        <h2>Our brand ambassador..</h2>
+        <img src="shubman.jpg" src="Image is missing" height="500" width="600">
+        <h4>You can contact us through</h4>
+        <ul>
+            <li><a href="https://facebook.com">Facebook</a></li>
+            <li><a href="https://instagram.com">Instagram</a></li>
+            <li><a href="https://twitter.com">Twitter</a></li>
+        </ul>
+
+    </body>
+
+
+</html>
